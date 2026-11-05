@@ -25,7 +25,26 @@ print("-" * 60)
 
 
 word_bank = [
-    
+    ("PYTHON", "A popular programming language named after a snake"),
+    ("ELEPHANT", "The largest land animal"),
+    ("GUITAR", "A musical instrument with strings"),
+    ("RAINBOW", "A colorful arc that appears after rain"),
+    ("PLANET", "A celestial body that revolves around a star"),
+    ("KEYBOARD", "An input device used with computers"),
+    ("DIAMOND", "A precious gemstone known for its hardness"),
+    ("BUTTERFLY", "An insect with colorful wings"),
+    ("MOUNTAIN", "A large natural elevation of the Earth's surface"),
+    ("CHOCOLATE", "A sweet treat made from cocoa"),
+    ("TELESCOPE", "An instrument used to observe distant objects in space"),
+    ("DOLPHIN", "An intelligent marine mammal"),
+    ("LIBRARY", "A place where you can borrow books"),
+    ("AIRPLANE", "A vehicle that flies through the sky"),
+    ("VOLCANO", "A mountain that can erupt with lava"),
+    ("UMBRELLA", "An object used to protect yourself from rain"),
+    ("ASTRONAUT", "A person trained to travel into space"),
+    ("CAMERA", "A device used to capture photographs"),
+    ("SUNFLOWER", "A yellow flower that follows the sunlight"),
+    ("REFRIGERATOR", "An appliance used to keep food cold")
 ]
 
 player_start = input("Do you want to play the game ? (type 'quit' if not)")
